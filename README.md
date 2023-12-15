@@ -11,7 +11,6 @@ Meilisearch is a RESTful search API
 ## How to run
 
 -   run: `make run`
--   retrieve api keys: `make keys`
 
 During development, the api is served at http://localhost:7700 and the private api key is `key_meili`
 
