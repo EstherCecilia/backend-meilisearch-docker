@@ -1,4 +1,4 @@
-FROM getmeili/meilisearch:v1.5
+FROM getmeili/meilisearch:v1.6.2
 
 ENV MEILI_HTTP_ADDR=0.0.0.0:80
 ENV MEILI_ENV=production
